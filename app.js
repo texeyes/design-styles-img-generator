@@ -27,7 +27,7 @@ const designStyles = [
     },
     {
         "name": "Geometric Remix",
-        "description": "Bold Bauhaus-inspired compositions featuring modular grid structures, checkerboard patterns, concentric circles, overlapping triangles, and dynamic color blocking in primary and secondary hues. This style channels 1920s constructivist posters and Swiss modernism—think precise alignment, mathematical proportions, and playful visual rhythm. Shapes intersect and layer with transparency effects, creating new color zones where they overlap. The palette is unapologetically vibrant—royal blue, fire engine red, sunshine yellow, kelly green—with occasional black and white anchoring the composition. Typography integrates into the geometric framework, often running at angles or following circular paths, with bold sans-serif letterforms that echo the architectural quality of the shapes.",
+        "description": "Editorial magazine collage composition featuring black-and-white portrait photography layered with bold geometric shapes including circles, semi-circles, triangles, and rectangles in vibrant primary colors (red, blue, yellow, orange, green). Incorporate scattered typography fragments, checkerboard patterns, horizontal line textures, and color blocking overlays. Contemporary sophisticated layout with asymmetric balance on dark background.",
         "accentColor": "#2196f3"
     },
     {
