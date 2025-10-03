@@ -22,7 +22,7 @@ const designStyles = [
     },
     {
         "name": "Sustainable Minimalism",
-        "description": "Clean, breathable compositions with generous negative space in warm neutral tones—cream, beige, soft terracotta, sage green, and muted earth pigments. The design philosophy emphasizes intentional restraint with geometric simplicity, rounded corners, and organic accent colors that suggest natural materials like wood, stone, and plant life. Typography is modern sans-serif with comfortable spacing, never overcrowded. Visual elements are thoughtfully placed with clear hierarchy and purposeful breathing room, creating a sense of calm professionalism. Occasional pops of vibrant color—sunny yellow or coral pink—act as focal points against the serene neutral backdrop, suggesting sustainable brands focused on wellness, environmental consciousness, and mindful consumption.",
+        "description": "Eco‑modern minimalist poster in flat vector style: large abstract cut‑paper shapes with smooth rounded edges, bold primary blocks of color on warm off‑white—sunny yellow, coral, sage, leaf green, blush pink—arranged with generous negative space and clear hierarchy. Simple geometric forms suggest nature and food (leaves, fruit halves, bowls) using solid fills, no gradients, no texture, crisp black accents for contrast. Friendly modern sans serif headline, wide tracking, few words, strong left alignment. Composition feels airy and playful yet intentional, with oversized organic shapes cropped at the edges, clean margins, and poster-like balance. Lighting none, shadows none, print‑ready vector, high contrast, contemporary museum graphic design",
         "accentColor": "#8bc34a"
     },
     {
