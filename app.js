@@ -17,7 +17,7 @@ const designStyles = [
     },
     {
         "name": "Sketchbook",
-        "description": "Raw, unpolished hand-drawn aesthetic featuring loose gestural linework, messy ink scribbles, quick pen doodles, and imperfect mark-making that celebrates authenticity over precision. The style evokes artist notebooks and spontaneous creative exploration—smudged charcoal marks, crosshatching, casual letterforms, and unfinished contour drawings. Lines are organic, wobbly, and human, with visible starts and stops that reveal the artist's hand. Typography is playful and handwritten, overlapping with sketch elements in a stream-of-consciousness visual diary format. The overall effect feels intimate, vulnerable, and deliberately anti-digital, like peeking into a designer's personal creative process.",
+        "description": "Raw sketchbook collage aesthetic. High-contrast black ink on off‑white paper, loose wobbly contour lines, sparse abstract shapes, and smudged toner textures. Torn-paper edges and taped overlays create a poster-like layout with visible folds and misregistration. Handwritten, casual sans/marker lettering mixed with small type blocks; imperfect kerning, baseline drift, and dot details. Large negative space, minimal color (black, off‑white, light gray). Layout feels like a photocopied zine: flat fills, stipple grain, and patchy coverage. Embrace mistakes: clipped strokes, broken lines, ink bleed, and dust specks. Keep it anti-digital, intimate, and utilitarian.",
         "accentColor": "#424242"
     },
     {
